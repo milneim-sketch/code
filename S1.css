@@ -1,0 +1,37 @@
+div {
+  background-color: darkslategrey;
+  width: 800px;
+  height: 1000px;
+  margin: 0px;
+  padding: 0 10px;
+  text-align: center;
+  color: lightslategrey;
+  font-family: Monospace;
+}
+body{
+  font-family:Monospace;
+  text-align: center;
+}
+h1{
+  padding-top:  250px;
+  padding-bottom:  250px;
+  text-decoration: underline;
+  font-family: Black Ops One;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 35px;
+}
+h3{
+  padding-bottom: 30px;
+  text-align: center;
+  font-family: Monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+h2{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-family: Monospace;
+}
